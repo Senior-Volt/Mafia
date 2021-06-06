@@ -96,14 +96,6 @@ namespace mafia_game
             bool isMafia = player.IsMafia;
             allPlayers.Remove(player);
             playersByRoles[isMafia].Remove(player);
-
-            // System.Console.WriteLine(player.Name + " мафия? " + player.IsMafia);
-            // System.Console.Write("Все игроки: ");
-            // allPlayers.ForEach(x => System.Console.Write($"{x.Name} "));
-            // System.Console.WriteLine();
-            // System.Console.Write($"Игроки типа {isMafia}: ");
-            // playersByRoles[isMafia].ForEach(x => System.Console.Write($"{x.Name} "));
-            // System.Console.WriteLine();
         }
     }
 }
