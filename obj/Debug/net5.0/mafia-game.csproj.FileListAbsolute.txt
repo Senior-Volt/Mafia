@@ -1,0 +1,16 @@
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\bin\Debug\net5.0\mafia-game.exe
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\bin\Debug\net5.0\mafia-game.deps.json
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\bin\Debug\net5.0\mafia-game.runtimeconfig.json
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\bin\Debug\net5.0\mafia-game.runtimeconfig.dev.json
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\bin\Debug\net5.0\mafia-game.dll
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\bin\Debug\net5.0\ref\mafia-game.dll
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\bin\Debug\net5.0\mafia-game.pdb
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net5.0\mafia-game.csprojAssemblyReference.cache
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net5.0\mafia-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net5.0\mafia-game.AssemblyInfoInputs.cache
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net5.0\mafia-game.AssemblyInfo.cs
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net5.0\mafia-game.csproj.CoreCompileInputs.cache
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net5.0\mafia-game.dll
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net5.0\ref\mafia-game.dll
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net5.0\mafia-game.pdb
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net5.0\mafia-game.genruntimeconfig.cache

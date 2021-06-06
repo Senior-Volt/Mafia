@@ -1,0 +1,9 @@
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\bin\Debug\net472\mafia-game.exe.config
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\bin\Debug\net472\mafia-game.exe
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\bin\Debug\net472\mafia-game.pdb
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net472\mafia-game.csprojAssemblyReference.cache
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net472\mafia-game.AssemblyInfoInputs.cache
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net472\mafia-game.AssemblyInfo.cs
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net472\mafia-game.csproj.CoreCompileInputs.cache
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net472\mafia-game.exe
+C:\Users\joker\OneDrive\Документы\Проекты\C#\mafia-game\obj\Debug\net472\mafia-game.pdb

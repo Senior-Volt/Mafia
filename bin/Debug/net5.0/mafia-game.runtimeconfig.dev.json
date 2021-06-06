@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\joker\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\joker\\.nuget\\packages"
+    ]
+  }
+}
